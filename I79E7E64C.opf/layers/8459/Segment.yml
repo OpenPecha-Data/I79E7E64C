@@ -1,0 +1,196 @@
+id: f22dc05c4bb94a9b878bdd7d7d55f4fc
+annotation_type: Segment
+revision: '00001'
+annotations:
+  2adf5a4a0f754207a9a6e81841aa5363:
+    span:
+      start: 0
+      end: 25
+  ef2c0ca2f23f44fda382e31433000a82:
+    span:
+      start: 26
+      end: 87
+  9067b7a31fed4557ab249cd00beab816:
+    span:
+      start: 88
+      end: 120
+  4aa3e37259034e07b8e12afe95db271f:
+    span:
+      start: 121
+      end: 332
+  87182ea940454d398f5dbbe71e20dd16:
+    span:
+      start: 333
+      end: 517
+  73f64599e6ce46aab997929ecd94b67f:
+    span:
+      start: 518
+      end: 707
+  51a717288420443493336a2232787dcf:
+    span:
+      start: 708
+      end: 884
+  0224ba21a7e6485aabc1d653afb5c64a:
+    span:
+      start: 885
+      end: 1129
+  19276715de684509943f3f5bce71b6b4:
+    span:
+      start: 1130
+      end: 1365
+  7479c89d780546c4bd5fadfdd91ab39a:
+    span:
+      start: 1366
+      end: 1597
+  859826ecabca4dc9b0beaeeb3dcb155e:
+    span:
+      start: 1598
+      end: 1878
+  8734969c1a97472181b408864fe37fad:
+    span:
+      start: 1879
+      end: 2098
+  4b5a41c05e634cce9ec937cd2a06a99a:
+    span:
+      start: 2099
+      end: 2316
+  a66d988339b9441ca5e9aabb204f41ec:
+    span:
+      start: 2317
+      end: 2551
+  40065ce141bb45b381b7ef67ff87dba0:
+    span:
+      start: 2552
+      end: 2804
+  8770380613a8471791c1931ec586400f:
+    span:
+      start: 2805
+      end: 3016
+  801853c34e9649afb0baf6c5e90e1582:
+    span:
+      start: 3017
+      end: 3256
+  1cac5e77e9f749d290a3c8f6f95379b3:
+    span:
+      start: 3257
+      end: 3508
+  c406cdf74e8444dfa3d050aca6c78599:
+    span:
+      start: 3509
+      end: 3734
+  9c63ff7615c847beaf7b8c43e81d3ca6:
+    span:
+      start: 3735
+      end: 3936
+  a8b3bd280add4ee6b74b24ba292da96e:
+    span:
+      start: 3937
+      end: 4149
+  c84e13d7ee874e0e89a38bf9eb00a0f4:
+    span:
+      start: 4150
+      end: 4392
+  5b252f67c51e40ae94d99384cbc03c2b:
+    span:
+      start: 4393
+      end: 4716
+  103fdb23bcfb4075b31808909546720c:
+    span:
+      start: 4717
+      end: 4954
+  baa7f49c777a4a22a3387fdf1b326f6d:
+    span:
+      start: 4955
+      end: 5109
+  d31ec575516e41988a5ecf7f5137ad4a:
+    span:
+      start: 5110
+      end: 5368
+  41d7eada230243d598822d1697082e78:
+    span:
+      start: 5369
+      end: 5547
+  ea9b22408eb646049c17e6540edd402c:
+    span:
+      start: 5548
+      end: 5825
+  3ec76d036ce74f449f45cf65cc0acd8f:
+    span:
+      start: 5826
+      end: 6067
+  e73cbe106933409688f1ea478845e052:
+    span:
+      start: 6068
+      end: 6298
+  1f47b474d71f4cc18ae81f28fd59a7fa:
+    span:
+      start: 6299
+      end: 6558
+  da3f3608ec914e70b227974b77c3d2d9:
+    span:
+      start: 6559
+      end: 6771
+  be90d13dea254265b5d6eea8cca9ccba:
+    span:
+      start: 6772
+      end: 6987
+  b7a3463c95c44ecda10ca78935c84181:
+    span:
+      start: 6988
+      end: 7243
+  1ca73ce2d2d64592b3e9e1b3df6ce5c9:
+    span:
+      start: 7244
+      end: 7515
+  2b4dd2030cc84275a6e4dc5d91b6dc4b:
+    span:
+      start: 7516
+      end: 7820
+  329f4308f8b5448c8fba5edc7d9f6f9e:
+    span:
+      start: 7821
+      end: 7933
+  d528b183367f407988387352fa6441b2:
+    span:
+      start: 7934
+      end: 7946
+  26d9e71d99764d2aa6d78b374aca37c1:
+    span:
+      start: 7947
+      end: 7963
+  daaf7c1e838d40569e271e39ba26b9a9:
+    span:
+      start: 7964
+      end: 8205
+  400b2215065647b3b7fbcf335006634e:
+    span:
+      start: 8206
+      end: 8418
+  8a9f9d741a3147ac8e8e51559a7203a9:
+    span:
+      start: 8419
+      end: 8436
+  1526cffeb93d441fb23cd06d06a40981:
+    span:
+      start: 8437
+      end: 8612
+  75a444edd8fe467fbbd9e98fb0de2923:
+    span:
+      start: 8613
+      end: 8778
+  e6d7cc58fa6a44a69ec65bcaaa33f167:
+    span:
+      start: 8779
+      end: 8933
+  890e87aedf4046c6a7efe275b5c65039:
+    span:
+      start: 8934
+      end: 9148
+  30928245f0ce450a92c5cef1a3e53b63:
+    span:
+      start: 9149
+      end: 9170
+  bf60a4bb9c534c478662dcec0857b82e:
+    span:
+      start: 9171
+      end: 9869
